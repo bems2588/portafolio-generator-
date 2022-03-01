@@ -1,0 +1,22 @@
+{
+  "name": "portafolio-generator-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bems2588/portafolio-generator-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bems2588/portafolio-generator-/issues"
+  },
+  "homepage": "https://github.com/bems2588/portafolio-generator-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
